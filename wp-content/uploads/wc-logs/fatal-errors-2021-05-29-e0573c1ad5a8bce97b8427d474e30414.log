@@ -1,0 +1,4 @@
+2021-05-29T14:17:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\ActividadesProgramacion\wordpress\wp-admin\includes\class-core-upgrader.php en la línea 404
+
+2021-05-29T14:19:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\ActividadesProgramacion\wordpress\wp-admin\includes\class-wp-filesystem-direct.php en la línea 66
+
